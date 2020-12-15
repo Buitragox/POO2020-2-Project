@@ -1,0 +1,18 @@
+@model Project.ViewModels.MenuVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @* <link rel="stylesheet" href="~/css/EditUserStyle.css"> *@
+    <link rel="stylesheet" href="~/css/Confirmation.css">
+    <title>Actualización</title>
+</head>
+<body>
+    <div >
+        <p>Se ha actualizado el producto</p>
+        <a asp-controller="Farmer" asp-action="Menu" asp-route-id=@Model.userID>Volver al menu</a>
+    </div>
+</body>
+</html>

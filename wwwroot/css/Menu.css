@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+div#WrapperScreen
+{
+    height: 100vh;
+    width:  100wh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../images/fondoMenu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: large;
+    font-weight: 400;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+
+div #WrapperScreen form div
+{
+    margin-bottom: 0.5em;
+}
+
+label.InfoFormulario{
+    font-size: 2.1em;
+    font-weight: 800;
+    
+}
+.topnav {
+    background-color: #f44336;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+p{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 300;
+    padding-right: 2cm;
+    text-align: center;
+    padding-left: 1em;
+}

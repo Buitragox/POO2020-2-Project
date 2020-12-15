@@ -1,0 +1,18 @@
+@model long
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Confirmation.css">
+    <title>Cambio guardado</title>
+</head>
+<body>
+    Cambio exitoso <br>
+    
+<a asp-controller="Home" asp-action="RedirectToMenu" asp-route-id=@Model>Volver al menú</a>
+    
+</body>
+</html>

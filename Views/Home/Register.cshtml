@@ -1,0 +1,85 @@
+@model Project.Models.User
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Edit.css">
+    <title>Registrarse</title>
+</head>
+<body>
+    <div>
+        <form asp-action="SaveUser" method="Post">
+            <div>
+                <input type="hidden" asp-for="ID">
+            </div>
+            <div>
+                Cliente
+                <input checked="checked" 
+                        id="Type" 
+                        name="Type" 
+                        type="radio" 
+                        value="Client" />
+                Granjero
+                <input  id="Type" 
+                        name="Type" 
+                        type="radio" 
+                        value="Farmer" />
+                
+            </div>
+            <div>
+                <label class="InfoFormulario"  asp-for="FirstName">Nombre</label>
+                <input asp-for="FirstName">
+            </div>
+            <div>
+                <label class="InfoFormulario"  asp-for="LastName">Apellido</label>
+                <input asp-for="LastName">
+            </div>
+            <div>
+                <label class="InfoFormulario" asp-for="Username">Nombre de usuario</label>
+                <input asp-for="Username">
+            </div>
+            <div>
+                <label class="InfoFormulario" asp-for="Password">Contraseña: </label>
+                <input asp-for="Password">
+            </div>
+            <div>
+                <label   class="InfoFormulario" asp-for="Address">Dirección: </label>
+                <input asp-for="Address">
+            </div>
+            <div>
+                <label class="InfoFormulario" asp-for="PaymentMethod">Seleccione un método de pago: </label>
+                Tarjeta de Crédito
+                <input  checked="checked" 
+                        id="PaymentMethod" 
+                        name="PaymentMethod" 
+                        type="radio" 
+                        value="CreditCard" />
+                PayPal
+                <input  id="PaymentMethod" 
+                        name="PaymentMethod" 
+                        type="radio" 
+                        value="PayPal" />
+                Cuenta de ahorros
+                <input  id="PaymentMethod" 
+                        name="PaymentMethod" 
+                        type="radio" 
+                        value="Savings" />
+            </div>
+            <div>
+                <label class="InfoFormulario" asp-for="AccountNumber">Número de cuenta:</label>
+                <input asp-for="AccountNumber">
+            </div>
+
+            <div>
+                <input type="submit" value="Registrarse">
+            </div>
+
+        </form>
+    </div>
+
+    <a asp-controller="Home" asp-action="LoginUser">Volver al inicio</a>
+    
+</body>
+</html>

@@ -1,0 +1,17 @@
+@model long
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Confirmation.css">
+    <title>Compra Existosa!</title>
+</head>
+<body>
+     
+       <p>Gracias por su compra!</p>
+
+        <a asp-controller="Client" asp-action="Menu" asp-route-id=@Model>Regresar al menú</a>
+    
+</body>

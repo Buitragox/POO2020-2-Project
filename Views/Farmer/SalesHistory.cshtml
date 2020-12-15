@@ -1,0 +1,30 @@
+@model Project.ViewModels.SalesVM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/displayProducts.css">
+    <title>Historial de Ventas</title>
+</head>
+<body>
+    <div id="MainWrapper">
+        <div id="WrapperScreen" >
+        <h2>Historial de Ventas</h2>
+        <br>
+        @foreach (var item in Model.SaleList)
+        {
+            <h5>Fecha: @item.Date</h5>
+            <p>Producto: @item.Name</p>
+            <p>Cantidad: @item.Amount</p>
+            <p>Persona que lo compró: @item.BuyersName</p>
+            <p>Direccion de envio: @item.Address</p>
+            <br>
+        }
+
+        <a asp-controller="Farmer" asp-action="Menu" asp-route-id=@Model.farmerID>Regresar</a>
+    </div>
+    </div>
+
+</body>

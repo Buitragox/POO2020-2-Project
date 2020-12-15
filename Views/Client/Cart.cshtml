@@ -1,0 +1,26 @@
+@model Project.ViewModels.ProdListVM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/displayProducts.css">
+    <title>Carrito</title>
+</head>
+<body>
+    <div id = "MainWrapper">
+        <div id="WrapperScreen">
+        @ViewData["info"]
+        @foreach (var kvp in Model.cart)
+        {
+            <h5>@kvp.Key.Name</h5>
+            <p>Cantidad: @kvp.Value</p>
+            
+        }
+        <a asp-controller="Client" asp-action="Checkout" asp-route-id=@Model.clientID>Finalizar Compra</a>
+
+        <a asp-controller="Client" asp-action="GetProducts" asp-route-id=@Model.clientID>Regresar</a>
+    </div>
+</div>
+</body>

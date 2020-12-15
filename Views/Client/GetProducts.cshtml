@@ -1,0 +1,42 @@
+@model Project.ViewModels.ProdListVM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/displayProducts.css">
+    <title>Productos</title>
+    
+</head>
+<style>
+
+</style>
+<body>
+    <div id="MainWrapper">
+        <div id="WrapperScreen" >
+            <p>@Model.message</p>
+            @foreach (var item in Model.prodList)
+            {
+                <h3>@item.Name</h3>
+                <p>Cantidad disponible: @item.Stock</p>
+                <p>Precio: @item.Price</p>
+                <p>Descripción: @item.Description</p>
+
+                <form asp-action="AddToCart" method="POST">
+                    <input type="hidden" asp-for=@Model.prodList>
+                    <input type="hidden" asp-for="clientID">
+                    <label class="InfoFormulario" for="">Cantidad a comprar: </label>
+                    <input type="hidden" asp-for="prodID" value=@item.ID>
+                    <input  asp-for="amount">
+                    <center><input type="submit" value="Agregar al Carrito"></center>
+                    
+                    @* <button type="submit" class="btn btn-success">Comprar</button> *@
+                </form>
+            }
+
+            <a asp-controller="Client" asp-action="Cart" asp-route-id=@Model.clientID>Ver Carrito</a>
+            <a asp-controller="Client" asp-action="Menu" asp-route-id=@Model.clientID>Regresar</a>
+        </div>
+    </div>
+</body>
+</html>

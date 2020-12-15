@@ -1,0 +1,25 @@
+@model Project.ViewModels.PurchaseVM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/displayProducts.css">
+    <title>Historial de Compras</title>
+</head>
+<body>
+     <div id = "MainWrapper">
+        <div id="WrapperScreen">
+        <p>Compra</p>
+        @foreach (var item in Model.PurchaseList)
+        {
+            <h5>Fecha: @item.Date</h5>
+            <p>Producto: @item.Name</p>
+            <p>Cantidad: @item.Amount</p>
+        }
+
+        <a asp-controller="Client" asp-action="Menu" asp-route-id=@Model.clientID>Regresar</a>
+    </div>
+    <div>
+</body>

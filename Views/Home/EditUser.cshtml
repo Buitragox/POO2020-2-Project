@@ -1,0 +1,98 @@
+@model Project.Models.User
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Edit.css">
+    <title>Login</title>
+</head>
+<body>
+    <div id="WrapperScreen">
+        <form id="edit" asp-action="SaveChange" method="POST">
+                <input type="hidden" asp-for="ID">
+                <input type="hidden" asp-for="Type">
+                <label class="InfoFormulario" asp-for="FirstName">Nombre</label>
+                <input asp-for="FirstName">
+                <label class="InfoFormulario" asp-for="LastName">Apellido</label>
+                <input asp-for="LastName">
+                <label class="InfoFormulario" asp-for="Username">Nombre de usuario</label>
+                <input asp-for="Username">
+                <label class="InfoFormulario" asp-for="Password">Contraseña</label>
+                <input asp-for="Password">
+                <label class="InfoFormulario" asp-for="Address">Dirección</label>
+                <input asp-for="Address">
+                <label class="InfoFormulario" asp-for="PaymentMethod">Seleccione un método de pago: </label>
+                <div>
+                    @if (Model.PaymentMethod == "CreditCard")
+                    {
+                        <input checked = "checked"
+                            id="PaymentMethod" 
+                            name="PaymentMethod" 
+                            type="radio" 
+                            value="CreditCard" />
+                    }
+                    else
+                    {
+                        <input id="PaymentMethod" 
+                            name="PaymentMethod" 
+                            type="radio" 
+                            value="CreditCard" />
+                    }
+                    Tarjeta de Crédito
+                </div>
+                <div>
+                    @if (Model.PaymentMethod == "PayPal")
+                    {
+                        <input checked = "checked" 
+                            id="PaymentMethod" 
+                            name="PaymentMethod" 
+                            type="radio" 
+                            value="PayPal" />
+                    }
+                    else
+                    {
+                        <input  
+                            id="PaymentMethod" 
+                            name="PaymentMethod" 
+                            type="radio" 
+                            value="Paypal" />
+                    }
+                    PayPal
+                </div>
+                <div>
+                    @if (Model.PaymentMethod == "Savings")
+                    {
+                        <input checked = "checked"  
+                            id="PaymentMethod" 
+                            name="PaymentMethod" 
+                            type="radio" 
+                            value="Savings" />
+                    }
+                    else
+                    {
+                        <input  
+                            id="PaymentMethod" 
+                            name="PaymentMethod" 
+                            type="radio" 
+                            value="Savings" />
+                    }
+                    Cuenta de ahorros
+                </div>
+                <label class="InfoFormulario" asp-for="AccountNumber">Número de cuenta:</label>
+                <input asp-for="AccountNumber">
+
+                <input type="submit" value="Editar">
+
+        </form>
+        <div id="back">
+            <a asp-controller="Home" asp-action="RedirectToMenu" asp-route-id=@Model.ID>Volver al menú</a>
+        </div>
+        
+    </div>
+
+    
+    
+</body>
+</html>

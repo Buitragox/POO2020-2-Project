@@ -1,0 +1,36 @@
+@model Project.Models.Product
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Edit.css">
+    <title>Editar producto</title>
+</head>
+<body>
+    <div id="WrapperScreen">
+        <form id = "edit" asp-action="UpdateProduct" method="POST">
+            <input type="hidden" asp-for="ID">
+            <input type="hidden" asp-for="FarmerID">
+                <label  class="InfoFormulario" asp-for="Name">Nombre</label>
+                <input asp-for="Name">
+                <label class="InfoFormulario" asp-for="Description">Descripción</label>
+                <input asp-for="Description">
+                
+                <label class="InfoFormulario" asp-for="Price">Precio</label>
+                <input asp-for="Price">
+
+                <label class="InfoFormulario" asp-for="Stock">Cantidad</label>
+                <input asp-for="Stock">
+                
+                <input type="submit" value="Guardar Producto">
+        
+        </form>
+        <div id="back">
+            <a asp-controller="Farmer" asp-action="Menu" asp-route-id=@Model.FarmerID>Volver al menú</a>
+        </div>
+    </div>
+    
+</body>
+</html>

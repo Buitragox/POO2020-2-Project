@@ -1,0 +1,295 @@
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginFarmer.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginUser.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\GetProducts.cshtml.g.cs
+C:\Users\ASUS\Desktop\Universidad\Tercer Semestre\Programacion Orientada a Objetos\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Menu.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Project.exe
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Project.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Project.pdb
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Programacion\csharp\POO\WebApps\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\GetProducts.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Menu.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginUser.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.dll
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.pdb
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\ListProducts.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\Menu.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\EditProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\UpdateProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\SaveUser.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\CreateProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\SaveProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\DeleteProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditUser.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\SaveChange.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Failure.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Cart.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Checkout.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\PurchaseHistory.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\ViewSales.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Cart.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Checkout.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\GetProducts.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Menu.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\PurchaseHistory.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\CreateProduct.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\DeleteProduct.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\EditProduct.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\ListProducts.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\Menu.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\SaveProduct.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\UpdateProduct.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\ViewSales.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditUser.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Failure.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginUser.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\SaveChange.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\SaveUser.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\Computer EV\Desktop\Proyecto\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Project.exe
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Project.deps.json
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Project.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Project.pdb
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Project.Views.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Project.Views.pdb
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Client\Cart.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Client\Checkout.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Client\GetProducts.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Client\Menu.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Client\PurchaseHistory.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\CreateProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\DeleteProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\EditProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\ListProducts.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\Menu.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\SaveProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\UpdateProduct.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditUser.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Failure.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginUser.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SaveChange.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SaveUser.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.Views.pdb
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.dll
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.pdb
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+D:\Programacion\csharp\POO\WebApps\ProjectV2\obj\Debug\netcoreapp3.1\Razor\Views\Farmer\SalesHistory.cshtml.g.cs

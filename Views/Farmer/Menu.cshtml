@@ -1,0 +1,24 @@
+@model Project.ViewModels.MenuVM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Menu.css">
+    <title>Menu</title>
+</head>
+<body>
+    <div class="topnav">
+        <p>@Model.name</p>
+        <a class="active" asp-controller="Home" asp-action="LoginUser">Log In</a>
+        <a asp-controller="Home" asp-action="Register">Registrarse</a>
+    </div>
+
+    <div  id="WrapperScreen">
+        <a asp-controller="Farmer" asp-action="ListProducts" asp-route-id=@Model.userID>Lista de productos registrados</a>
+        <a asp-controller="Farmer" asp-action="CreateProduct" asp-route-id=@Model.userID>Añadir un nuevo producto</a>
+        <a asp-controller="Farmer" asp-action="SalesHistory" asp-route-id=@Model.userID>Historial de Ventas</a>
+        <a asp-controller="Home" asp-action="EditUser" asp-route-id=@Model.userID>Editar perfil</a>
+    </div>
+</body>
+</html>
